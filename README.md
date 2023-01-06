@@ -1,8 +1,5 @@
 ![Header](https://github.com/Devisun/Devisun/blob/main/assets/big_za636k0a.jpg)
-## I'm a QA Engineer and Tutor. 
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
-## My CV
-[Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+## I'm a QA Engineer.
 
 
 ### Language and Tools
