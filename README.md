@@ -21,7 +21,7 @@
 - [Test-Suites and Test-Cases](https://github.com/Devisun/Devisun/tree/main/testqase)
 - [Bug-Reports](https://github.com/artichokeee/bug-reports)
 - [SQL Queries](https://github.com/Devisun/Devisun/tree/main/MySql)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Postman Collections](https://github.com/Devisun/Devisun/tree/main/postman)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=youtube&logoColor=f70000)](https://www.youtube.com/ArtsiomRusauQALife?sub_confirmation=1)
