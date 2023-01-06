@@ -1,4 +1,4 @@
-[![Header](https://github.com/Devisun/Devisun/blob/main/assets/big_za636k0a.jpg)]
+![Header](https://github.com/Devisun/Devisun/blob/main/assets/big_za636k0a.jpg)
 ## I'm a QA Engineer and Tutor. 
 ## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
