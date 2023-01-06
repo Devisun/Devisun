@@ -18,7 +18,7 @@
 ### Testing Documentation
 
 - [Checklists](https://github.com/Devisun/Devisun/tree/main/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
+- [Test-Suites and Test-Cases](https://github.com/Devisun/Devisun/tree/main/testqase)
 - [Bug-Reports](https://github.com/artichokeee/bug-reports)
 - [SQL Queries](https://github.com/artichokeee/SQL)
 - [Postman Collections](https://github.com/artichokeee/postman)
