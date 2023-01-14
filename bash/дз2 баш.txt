@@ -1,0 +1,30 @@
+mkdir test_3
+nano 4.txt
+row1
+row2
+row3
+row4
+nano 5.txt
+row1
+row2
+row3
+row4
+nano 6.txt
+row1
+row2
+row3
+row4
+grep -i row2 5.txt
+cd
+grep -R "row" test3
+grep -c row 6.txt
+cd ~/test3
+grep -c "row" 6.txt
+finf 5.txt
+find 5.txt -delete -print
+echo test > 4.txt
+cd
+ps aux
+kill 666
+ping artsiomrusau.com
+ping -c 5 artsiomrusau.com

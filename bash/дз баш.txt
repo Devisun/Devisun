@@ -1,0 +1,20 @@
+pwd
+mkdir test1
+cd ~/test1
+touch file1.txt file2.txt file3.txt
+ls
+cd
+rm -R test2
+mkdir test3
+cd ~/test3
+touch file1.txt file2.txt
+cd
+rm -R test3
+mkdir test4
+cd ~/test1
+mv *file1.txt file3.txt ~/test4
+cd ~/test4
+echo line 
+line
+line >> file1.txt
+cat file1.txt file3.txt
